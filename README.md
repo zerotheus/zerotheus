@@ -1,4 +1,12 @@
-### Hi there 👋
+### Oi eu sou Matheus.
+Estou cursando ads pelo IFBA.
+Aqui é onde guardo meus codigos fonte e upo alguns projetos pessoais
+
+<div align="center">
+  <a href="https://github.com/BecxAgy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zerotheus&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerotheus&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 <!--
 **zerotheus/zerotheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

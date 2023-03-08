@@ -2,6 +2,8 @@
 Estou cursando ads pelo IFBA.
 Aqui é onde guardo meus codigos fonte e upo alguns projetos pessoais
 
+<p>Bem gosto muito de estatísticas, aqui estão as deste perfil</p>
+
 <div align="center">
   <a href="https://github.com/zerotheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zerotheus&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
